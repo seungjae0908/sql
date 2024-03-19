@@ -85,8 +85,3 @@ SELECT * FROM emps;
 
 
 
-
-
-
-
-
